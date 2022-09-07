@@ -1,0 +1,55 @@
+body{
+    
+    background-image:url("images/add.jpg") ;
+    background-repeat: repeat-y;
+    background-attachment: scroll;
+    background-position: left;
+    border-style: double; 
+    border-radius: 10px;
+    border-width: 11px;
+    
+}
+
+p{
+
+    margin: 34cm;
+    padding: 23cm;
+}
+
+body {
+    
+}
+nav ul {
+    float: top right;
+    text-align: right;
+    list-style: none;
+}
+nav li{
+    margin: 0 12px ;
+    display: inline-block;
+    line-height: 37px;
+
+    
+
+
+    
+}
+
+nav a{
+    color: blue;
+    text-transform: capitalize;
+}
+a.active,a.hover{
+    border:1px solid black;
+    transition: 5s;
+}
+
+table{
+
+    border: 1px solid orangered;
+    margin:2rem auto;
+    ta
+}
+th{
+    padding: 2rem;
+}

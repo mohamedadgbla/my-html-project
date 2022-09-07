@@ -1,0 +1,20 @@
+<html>
+
+<tittle> Display an image  <tittle/>
+
+<body>
+
+
+
+
+	<h2> IMAGE IS HERE <h2/>
+
+	<p>
+
+	<img src="This PC\Galaxy A11\Phone\Pictures\Whatsapp/IMG-20220131-WA0031">										
+
+	<p/>
+
+<body/>
+
+<html/>
